@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">Edson Henrique — Software Engineering and Applied AI</title>
+  <desc id="desc">Distributed systems, cloud platforms, and practical AI. Montréal, Canada.</desc>
+  <rect width="1200" height="250" rx="18" fill="#101c2c"/>
+  <rect x="52" y="48" width="5" height="154" rx="2" fill="#57d9c5"/>
+  <text x="84" y="91" fill="#57d9c5" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="3">SOFTWARE ENGINEERING / APPLIED AI</text>
+  <text x="80" y="150" fill="#f3f6fb" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">Edson Henrique</text>
+  <text x="84" y="191" fill="#b6c4d6" font-family="Arial, Helvetica, sans-serif" font-size="21">Distributed systems. Cloud platforms. Practical AI.</text>
+  <g fill="none" stroke="#29445c" stroke-width="2">
+    <path d="M970 62 L1050 125 L970 188 L890 125 Z"/>
+    <path d="M1050 125 H1124 M890 125 H830"/>
+  </g>
+  <g fill="#57d9c5">
+    <circle cx="970" cy="62" r="6"/><circle cx="1050" cy="125" r="6"/>
+    <circle cx="970" cy="188" r="6"/><circle cx="890" cy="125" r="6"/>
+  </g>
+</svg>
