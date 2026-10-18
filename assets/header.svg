@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-  <title id="title">Olá, I'm Edson Henrique</title>
+  <title id="title">Edson Henrique — engineering notes from Montréal</title>
   <desc id="desc">Senior software engineer in Montréal. Distributed systems, cloud platforms, and applied AI. Creator of UHIRED, a first-place Microsoft hackathon project in 2024.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#141b3d"/><stop offset=".55" stop-color="#17213e"/><stop offset="1" stop-color="#122d3b"/></linearGradient>
@@ -10,13 +10,13 @@
   <circle cx="1100" cy="-20" r="220" fill="#6954ce" opacity=".10"/>
   <circle cx="1170" cy="320" r="160" fill="#38d4c6" opacity=".07"/>
   <g font-family="Arial, Helvetica, sans-serif">
-    <text x="54" y="60" fill="#bdadff" font-size="17" font-weight="700" letter-spacing="2.5">OLÁ. HELLO. BONJOUR.</text>
+    <text x="54" y="60" fill="#bdadff" font-size="17" font-weight="700" letter-spacing="2.5">ENGINEERING NOTES FROM MONTRÉAL</text>
     <text x="50" y="129" fill="#ffffff" font-size="58" font-weight="700">Edson Henrique</text>
-    <text x="54" y="174" fill="#bcecf4" font-size="24">Distributed systems. Cloud platforms. Applied AI.</text>
-    <text x="54" y="211" fill="#c5cce1" font-size="20">Building reliable software and bringing AI ideas to life.</text>
+    <text x="54" y="174" fill="#bcecf4" font-size="24">Software engineer. Systems, architecture, and AI.</text>
+    <text x="54" y="211" fill="#c5cce1" font-size="20">Architecture in TypeScript. Experiments in Python.</text>
     <rect x="54" y="249" width="638" height="38" rx="19" fill="#f9cf64" opacity=".13"/>
     <circle cx="77" cy="268" r="6" fill="#f9cf64"/>
-    <text x="94" y="274" fill="#ffdd8b" font-size="17" font-weight="700">UHIRED · Microsoft AI Hackathon · 1st place, 2024</text>
+    <text x="94" y="274" fill="#ffdd8b" font-size="17" font-weight="700">UHIRED · Microsoft AI Hackathon · 1st, Phase 2 · 2024</text>
   </g>
   <g fill="none" stroke-width="2">
     <path d="M870 90 L1058 115 L1008 252 L842 218 Z" stroke="#536197"/>
@@ -24,10 +24,10 @@
     <circle cx="952" cy="171" r="101" stroke="#7885b2" opacity=".15"/>
   </g>
   <g font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="middle">
-    <rect x="823" y="66" width="94" height="48" rx="14" fill="#bba2ff"/><text x="870" y="96" fill="#24203c">LEARN</text>
-    <rect x="1011" y="91" width="94" height="48" rx="14" fill="#67dcf1"/><text x="1058" y="121" fill="#15313e">BUILD</text>
-    <rect x="795" y="194" width="94" height="48" rx="14" fill="#f59bca"/><text x="842" y="224" fill="#40263d">TEST</text>
-    <rect x="961" y="228" width="94" height="48" rx="14" fill="#6ae1b0"/><text x="1008" y="258" fill="#16382e">SHIP</text>
+    <rect x="823" y="66" width="94" height="48" rx="14" fill="#bba2ff"/><text x="870" y="96" fill="#24203c">QUEUED</text>
+    <rect x="1002" y="91" width="112" height="48" rx="14" fill="#67dcf1"/><text x="1058" y="121" fill="#15313e" font-size="13">PROCESSING</text>
+    <rect x="795" y="194" width="94" height="48" rx="14" fill="#f59bca"/><text x="842" y="224" fill="#40263d">FAILED</text>
+    <rect x="952" y="228" width="112" height="48" rx="14" fill="#6ae1b0"/><text x="1008" y="258" fill="#16382e" font-size="13">COMPLETED</text>
     <text x="1129" y="249" fill="#f9cf64" font-size="32">✦</text>
     <text x="981" y="58" fill="#aa93ff" font-size="22">✦</text>
   </g>

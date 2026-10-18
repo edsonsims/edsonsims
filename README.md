@@ -1,64 +1,59 @@
-![Olá! I'm Edson Henrique — distributed systems, cloud platforms, and applied AI](assets/header.svg)
+![Edson Henrique — engineering notes from Montréal](assets/header.svg)
 
 [![Connect on LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/henriquelops/)
 [![View my project portfolio](assets/portfolio.svg)](https://devpost.com/edsonsims)
 [![Explore Enterprise AI Lab](assets/lab.svg)](https://github.com/edsonsims/enterprise-ai-lab)
 
-## 👋 A little about me
+## Olá, I'm Edson 👋
 
-I'm a **Senior Software Engineer in Montréal, Canada 🇨🇦**, with a background at
-**CapIntel, SSENSE, and XP Inc.** I build backend platforms, cloud systems, and
-practical AI products — and enjoy understanding how the pieces work together.
+I'm a software engineer in Montréal. My background includes **CapIntel, SSENSE,
+and XP Inc.**, with work on backend services, cloud infrastructure, performance,
+and legacy systems.
 
-My favorite kind of engineering connects a useful idea to a system people can
-actually use, test, and improve.
+Here I keep code, experiments, and the reasons behind the design choices:
+what changes between two designs, what fails, and what the tests actually prove.
 
-## 🏆 UHIRED · from an idea to a winning AI project
+## A few things to explore 🧩
 
-**1st place — Microsoft Developers Azure AI & Azure Cosmos DB Learning Hackathon, 2024.**
+### UHIRED
 
-I created **UHIRED** to make interview practice more interactive: spoken
-conversations, feedback, and recommendations tailored to a job description.
+I built UHIRED after finding it difficult to explain my own experience clearly in
+interviews. It provides spoken interview practice around a job description, with
+feedback on each answer.
 
-**Built with:** `Azure OpenAI` · `Cosmos DB` · `Azure Speech` · `Next.js`
+🏆 **1st place, Phase 2 — Learn and Integrate**, Microsoft Developers AI Learning
+Hackathon, 2024.
 
-🏅 [Microsoft's winner announcement](https://devblogs.microsoft.com/cosmosdb/meet-the-winners-microsoft-developers-azure-ai-azure-cosmos-db-learning-hackathon/)
-&nbsp;·&nbsp; 🎬 [Story & demo](https://devpost.com/software/aitism)
-&nbsp;·&nbsp; 🧩 [Technical overview](projects/uhired.md)
+[My project story & demo](https://devpost.com/software/aitism) ·
+[Microsoft's winner announcement](https://devblogs.microsoft.com/cosmosdb/meet-the-winners-microsoft-developers-azure-ai-azure-cosmos-db-learning-hackathon/) ·
+[Technical overview](projects/uhired.md)
 
-## 🧪 On my workbench: Enterprise AI Lab
+### [Architecture Studies](https://github.com/edsonsims/architecture-studies)
 
-**How do we make AI systems useful, reliable, and measurable?**
+One document-processing workflow in **TypeScript and Node.js**, implemented three
+ways: a layered application, ports and adapters, and in-process CQRS with an event
+projection. The same behavioral tests run against each implementation.
 
-I'm exploring that through [small, reproducible engineering studies](https://github.com/edsonsims/enterprise-ai-lab).
-The first experiment tests permission-aware retrieval, with an offline baseline,
-synthetic fixtures, raw results, and a failure case worth understanding.
+The point is to compare dependencies, state changes, and failure handling on the
+same problem. The older C# pattern examples are preserved alongside the new studies.
 
-📦 [Code & quick start](https://github.com/edsonsims/enterprise-ai-lab)
-&nbsp;·&nbsp; 🔎 [First study](https://github.com/edsonsims/enterprise-ai-lab/blob/main/docs/study-01.md)
-&nbsp;·&nbsp; 🗺️ [What's next](https://github.com/edsonsims/enterprise-ai-lab/blob/main/ROADMAP.md)
+[Code & comparison](https://github.com/edsonsims/architecture-studies) ·
+[Run the studies](https://github.com/edsonsims/architecture-studies#run-it)
 
-<sub>AI-assisted code; methods, validation, and limitations are documented in the lab.</sub>
+### [Enterprise AI Lab](https://github.com/edsonsims/enterprise-ai-lab)
 
-## 🛠️ My engineering toolbox
+The first **Python** experiment compares retrieval with and without tenant and
+role filters. It captures a useful failure: permitted context can still be
+irrelevant to the question.
 
-| | Where I work |
-| --- | --- |
-| ⚙️ **Backend & architecture** | C#/.NET · TypeScript/Node.js · APIs · Microservices · SQL & NoSQL |
-| ☁️ **Cloud & delivery** | AWS serverless · Azure · Infrastructure as code · Docker · Kubernetes · CI/CD |
-| 🤖 **Applied AI** | Language-model applications · Speech interfaces · Retrieval · Evaluation |
-| 🧭 **Engineering practice** | Automated testing · Performance analysis · Legacy modernization · Mentoring |
+[Synthetic inputs, results & reproduction](https://github.com/edsonsims/enterprise-ai-lab/blob/main/docs/study-01.md)
 
-📚 My earlier [C# design-pattern studies](https://github.com/edsonsims/design-pattern-study)
-are also available as a learning archive.
+## Connect 🤝
 
-## 🔬 Curiosity, with a method
+[LinkedIn](https://www.linkedin.com/in/henriquelops/) for my work history and
+professional conversations. [Devpost](https://devpost.com/edsonsims) for the project
+stories.
 
-My current research interests sit where **distributed systems and applied AI** meet:
-permission-aware retrieval, reproducible evaluation, and reliable agent workflows.
-I like clear questions, inspectable experiments, and honest measurements.
+---
 
-## 🤝 Let's build something useful
-
-Engineering opportunities, applied research, or a practical AI product idea?
-[I'd be happy to connect on LinkedIn.](https://www.linkedin.com/in/henriquelops/)
+> The concrete should serve the abstract. The temporal to the eternal.
