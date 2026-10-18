@@ -1,67 +1,64 @@
-![Edson Henrique — software engineering and applied AI](assets/header.svg)
+![Olá! I'm Edson Henrique — distributed systems, cloud platforms, and applied AI](assets/header.svg)
 
-I'm a **Senior Software Engineer** based in **Montréal, Canada**, with a background
-at **CapIntel, SSENSE, and XP Inc.** My work spans backend platforms, distributed
-systems, serverless infrastructure, and practical AI products.
+[![Connect on LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/henriquelops/)
+[![View my project portfolio](assets/portfolio.svg)](https://devpost.com/edsonsims)
+[![Explore Enterprise AI Lab](assets/lab.svg)](https://github.com/edsonsims/enterprise-ai-lab)
 
-I care about clear architecture, reliable behavior, and evidence that another
-engineer can inspect and reproduce.
+## 👋 A little about me
 
-[LinkedIn](https://www.linkedin.com/in/henriquelops/) ·
-[Project portfolio](https://devpost.com/edsonsims) ·
-[Engineering studies](https://github.com/edsonsims/enterprise-ai-lab)
+I'm a **Senior Software Engineer in Montréal, Canada 🇨🇦**, with a background at
+**CapIntel, SSENSE, and XP Inc.** I build backend platforms, cloud systems, and
+practical AI products — and enjoy understanding how the pieces work together.
 
-## Selected work
+My favorite kind of engineering connects a useful idea to a system people can
+actually use, test, and improve.
 
-### UHIRED · AI interview preparation
+## 🏆 UHIRED · from an idea to a winning AI project
 
 **1st place — Microsoft Developers Azure AI & Azure Cosmos DB Learning Hackathon, 2024.**
 
-I created UHIRED to help people practice interviews with spoken interaction,
-feedback, and recommendations tailored to a job description. The project combines
-Azure OpenAI, Cosmos DB, Azure Speech, and Next.js.
+I created **UHIRED** to make interview practice more interactive: spoken
+conversations, feedback, and recommendations tailored to a job description.
 
-[Microsoft's winner announcement](https://devblogs.microsoft.com/cosmosdb/meet-the-winners-microsoft-developers-azure-ai-azure-cosmos-db-learning-hackathon/) ·
-[Project story and demo](https://devpost.com/software/aitism) ·
-[Technical overview](projects/uhired.md)
+**Built with:** `Azure OpenAI` · `Cosmos DB` · `Azure Speech` · `Next.js`
 
-### Enterprise AI Lab · open-source engineering studies
+🏅 [Microsoft's winner announcement](https://devblogs.microsoft.com/cosmosdb/meet-the-winners-microsoft-developers-azure-ai-azure-cosmos-db-learning-hackathon/)
+&nbsp;·&nbsp; 🎬 [Story & demo](https://devpost.com/software/aitism)
+&nbsp;·&nbsp; 🧩 [Technical overview](projects/uhired.md)
 
-A growing set of reproducible experiments connecting applied AI with enterprise
-engineering: permission-aware retrieval, evaluation, identity, and failure recovery.
-The first study includes a runnable offline baseline, synthetic fixtures, automated
-tests, raw results, and a documented failure case. The code is AI-assisted, with
-assistance and validation boundaries recorded in the repository.
+## 🧪 On my workbench: Enterprise AI Lab
 
-[Source and quick start](https://github.com/edsonsims/enterprise-ai-lab) ·
-[First study](https://github.com/edsonsims/enterprise-ai-lab/blob/main/docs/study-01.md) ·
-[Measured results](https://github.com/edsonsims/enterprise-ai-lab/blob/main/reports/reference/report.json) ·
-[Roadmap](https://github.com/edsonsims/enterprise-ai-lab/blob/main/ROADMAP.md)
+**How do we make AI systems useful, reliable, and measurable?**
 
-### Open-source contributions
+I'm exploring that through [small, reproducible engineering studies](https://github.com/edsonsims/enterprise-ai-lab).
+The first experiment tests permission-aware retrieval, with an offline baseline,
+synthetic fixtures, raw results, and a failure case worth understanding.
 
-[pytest-env #273](https://github.com/pytest-dev/pytest-env/pull/273) — fix explicit
-empty TOML environment-file configuration falling back to INI settings. Includes
-subprocess regression tests and AI-assistance disclosure. **Submitted; awaiting
-maintainer review.**
+📦 [Code & quick start](https://github.com/edsonsims/enterprise-ai-lab)
+&nbsp;·&nbsp; 🔎 [First study](https://github.com/edsonsims/enterprise-ai-lab/blob/main/docs/study-01.md)
+&nbsp;·&nbsp; 🗺️ [What's next](https://github.com/edsonsims/enterprise-ai-lab/blob/main/ROADMAP.md)
 
-## Engineering foundation
+<sub>AI-assisted code; methods, validation, and limitations are documented in the lab.</sub>
 
-| Area | Experience and tools |
+## 🛠️ My engineering toolbox
+
+| | Where I work |
 | --- | --- |
-| Backend and architecture | C#/.NET, TypeScript/Node.js, APIs, microservices, SQL and NoSQL |
-| Cloud and delivery | AWS serverless, Azure, infrastructure as code, Docker, Kubernetes, CI/CD |
-| Applied AI | Language-model applications, speech interfaces, retrieval and evaluation |
-| Engineering practice | Automated testing, performance analysis, legacy modernization, technical mentoring |
+| ⚙️ **Backend & architecture** | C#/.NET · TypeScript/Node.js · APIs · Microservices · SQL & NoSQL |
+| ☁️ **Cloud & delivery** | AWS serverless · Azure · Infrastructure as code · Docker · Kubernetes · CI/CD |
+| 🤖 **Applied AI** | Language-model applications · Speech interfaces · Retrieval · Evaluation |
+| 🧭 **Engineering practice** | Automated testing · Performance analysis · Legacy modernization · Mentoring |
 
-My earlier [C# design-pattern studies](https://github.com/edsonsims/design-pattern-study)
-remain available as a learning archive.
+📚 My earlier [C# design-pattern studies](https://github.com/edsonsims/design-pattern-study)
+are also available as a learning archive.
 
-## Research interests and collaboration
+## 🔬 Curiosity, with a method
 
-I'm developing my work around **permission-aware AI, reproducible evaluation, and
-reliable agent workflows**. I am interested in applied research collaborations that
-connect a clear question to a testable system and honest measurements.
+My current research interests sit where **distributed systems and applied AI** meet:
+permission-aware retrieval, reproducible evaluation, and reliable agent workflows.
+I like clear questions, inspectable experiments, and honest measurements.
 
-For engineering opportunities, research conversations, or practical AI product
-collaboration, [connect with me on LinkedIn](https://www.linkedin.com/in/henriquelops/).
+## 🤝 Let's build something useful
+
+Engineering opportunities, applied research, or a practical AI product idea?
+[I'd be happy to connect on LinkedIn.](https://www.linkedin.com/in/henriquelops/)
