@@ -33,6 +33,11 @@ local decision models.
   </picture>
 </a>
 
+### Merged upstream contributions
+
+- **[pyproject-api](https://github.com/tox-dev/pyproject-api/pull/323)** — Prevent source-tree deletion from unsafe metadata output paths, with regression tests for ancestor paths and symlink aliases.
+- **[pytest-env](https://github.com/pytest-dev/pytest-env/pull/273)** — Honor explicitly empty environment-file lists instead of loading fallback files, with subprocess regression tests.
+
 ### 🎙️ The story behind UHIRED
 
 I knew my experience. Explaining it in an interview was harder.
