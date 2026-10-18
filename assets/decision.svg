@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title description">
+  <title id="title">Decision Workbench</title><desc id="description">Local decision models, public data, visible tradeoffs. Reproducible evaluations, typed APIs and bounded workflows.</desc>
+  <rect width="1200" height="180" rx="18" fill="#28203f"/>
+  <text x="34" y="35" fill="#c4b4e4" font-family="ui-monospace, 'Courier New', monospace" font-size="15" letter-spacing="2">02 / MODEL EXPERIMENTS</text>
+  <text x="32" y="80" fill="#fff8ed" font-family="Arial, sans-serif" font-size="37" font-weight="700" letter-spacing="-1">Decision Workbench</text>
+  <text x="34" y="116" fill="#efe6ff" font-family="Arial, sans-serif" font-size="23">Local decision models, public data, visible tradeoffs.</text>
+  <text x="34" y="151" fill="#c4b4e4" font-family="ui-monospace, 'Courier New', monospace" font-size="17">Reproducible evals · typed APIs · bounded workflows</text>
+  <g fill="none" stroke="#ae94df" stroke-width="2"><path d="M914 90h47m0 0v-41h47m-47 41h47m-47 0v41h47"/><circle cx="961" cy="90" r="5" fill="#c4b4e4"/></g>
+  <rect x="861" y="63" width="53" height="53" rx="11" fill="#c4b4e4"/><path d="m878 82-8 8 8 8m18-16 8 8-8 8" stroke="#28203f" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <rect x="1008" y="32" width="92" height="34" rx="8" fill="#bbf1d7"/><rect x="1008" y="73" width="92" height="34" rx="8" fill="#3e335a" stroke="#7d689e" stroke-width="1.5"/><rect x="1008" y="114" width="92" height="34" rx="8" fill="#3e335a" stroke="#7d689e" stroke-width="1.5"/>
+  <path d="m1025 48 6 6 12-12" stroke="#285a4a" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M1053 49h28" stroke="#4d8a73" stroke-width="2"/>
+  <path d="M1025 90h56m-56 41h56" stroke="#9d86be" stroke-width="2"/>
+  <path d="m1147 136 10 10-10 10m-20-10h29" fill="none" stroke="#c4b4e4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

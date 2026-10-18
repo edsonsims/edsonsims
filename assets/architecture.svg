@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title description">
+  <title id="title">Architecture Studies</title><desc id="description">One document service. Three backend designs. Node.js and Python APIs, SQLite, integration tests.</desc>
+  <rect width="1200" height="180" rx="18" fill="#eee9ff"/>
+  <text x="34" y="35" fill="#75618f" font-family="ui-monospace, 'Courier New', monospace" font-size="15" letter-spacing="2">01 / SYSTEMS</text>
+  <text x="32" y="80" fill="#28203f" font-family="Arial, sans-serif" font-size="37" font-weight="700" letter-spacing="-1">Architecture Studies</text>
+  <text x="34" y="116" fill="#3d3352" font-family="Arial, sans-serif" font-size="23">One document service. Three backend designs.</text>
+  <text x="34" y="151" fill="#675579" font-family="ui-monospace, 'Courier New', monospace" font-size="17">Node.js + Python · HTTP APIs · SQLite · integration tests</text>
+  <g stroke="#65508a" stroke-width="2.5" stroke-linejoin="round">
+    <path d="m950 37 54 31-54 31-54-31z" fill="#c3afea"/><path d="m896 68 54 31v45l-54-31z" fill="#f9f6ff"/><path d="m950 99 54-31v45l-54 31z" fill="#9e82cc"/>
+    <path d="m1035 63 54 31-54 31-54-31z" fill="#f9c4af"/><path d="m981 94 54 31v30l-54-31z" fill="#fff8ef"/><path d="m1035 125 54-31v30l-54 31z" fill="#ef9e89"/>
+    <path d="m1110 30 32 19-32 19-32-19z" fill="#c2e9d8"/><path d="m1078 49 32 19v30l-32-18z" fill="#f6fffa"/><path d="m1110 68 32-19v31l-32 18z" fill="#84bfa9"/>
+  </g>
+  <path d="m1147 136 10 10-10 10m-20-10h29" fill="none" stroke="#65508a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

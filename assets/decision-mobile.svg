@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="270" viewBox="0 0 600 270" role="img" aria-labelledby="title description">
+<title id="title">Decision Workbench</title><desc id="description">Local models. Public data. Visible tradeoffs. Reproducible evaluations, typed APIs and bounded workflows.</desc>
+<rect width="600" height="270" rx="18" fill="#28203f"/>
+<text x="28" y="35" fill="#c4b4e4" font-family="ui-monospace,'Courier New',monospace" font-size="16" letter-spacing="1">02 / MODEL EXPERIMENTS</text>
+<text x="26" y="84" fill="#fff8ed" font-family="Arial,sans-serif" font-size="35" font-weight="700" letter-spacing="-1">Decision Workbench</text>
+<text x="28" y="129" fill="#fff8ed" font-family="Arial,sans-serif" font-size="26">Local models. Public data.</text>
+<text x="28" y="162" fill="#fff8ed" font-family="Arial,sans-serif" font-size="26">Visible tradeoffs.</text>
+<text x="28" y="211" fill="#c4b4e4" font-family="ui-monospace,'Courier New',monospace" font-size="18">Reproducible evals · typed APIs</text>
+<text x="28" y="238" fill="#c4b4e4" font-family="ui-monospace,'Courier New',monospace" font-size="18">Bounded workflows</text>
+<path d="m548 219 10 10-10 10m-20-10h29" fill="none" stroke="#c4b4e4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<g stroke="#c4b4e4" stroke-width="2" stroke-linejoin="round"><path d="m531 47 27 15-27 16-27-16z" fill="#baf0d6"/><path d="m504 62 27 16v22l-27-16zm27 16 27-16v22l-27 16z" fill="none"/></g>
+</svg>

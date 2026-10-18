@@ -1,7 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
   <title id="title">Edson Henrique</title>
-  <desc id="desc">Edson Henrique, set in dark serif lettering on cream, with a single coral underline.</desc>
-  <rect width="1200" height="200" rx="16" fill="#fff8e9"/>
-  <text x="50" y="119" fill="#24263e" font-family="Georgia, 'Times New Roman', serif" font-size="78" letter-spacing="-2">Edson Henrique</text>
-  <path d="M54 145 C190 139 313 151 451 144 S582 142 633 146" fill="none" stroke="#e95e42" stroke-width="5" stroke-linecap="round"/>
+  <desc id="description">Edson Henrique, Montréal. Bold cream lettering on deep purple beside a playful arrangement of coral, mint and lavender architectural blocks.</desc>
+  <defs>
+    <pattern id="dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#8470ad" opacity=".2"/></pattern>
+    <clipPath id="edge"><rect width="1200" height="320" rx="24"/></clipPath>
+    <linearGradient id="ink" x1="0" x2="1"><stop stop-color="#171326"/><stop offset="1" stop-color="#28203f"/></linearGradient>
+  </defs>
+  <style>
+    @keyframes drift {0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+    @keyframes travel {to{stroke-dashoffset:-32}}
+    @media (prefers-reduced-motion:no-preference){.spark{animation:drift 5s ease-in-out infinite}.route{animation:travel 8s linear infinite}}
+  </style>
+  <g clip-path="url(#edge)">
+    <rect width="1200" height="320" fill="url(#ink)"/>
+    <rect x="660" width="540" height="320" fill="url(#dots)"/>
+    <circle cx="1125" cy="85" r="233" fill="none" stroke="#44345e" stroke-width="1"/>
+    <circle cx="1125" cy="85" r="195" fill="none" stroke="#44345e" stroke-width="1"/>
+    <path d="M37 33h13m-6-6v13" stroke="#beadf0" stroke-width="2"/>
+    <text x="70" y="55" fill="#bcaedf" font-family="ui-monospace, 'Courier New', monospace" font-size="18" letter-spacing="2">@edsonsims</text>
+    <text x="64" y="151" fill="#fff8ed" font-family="'Arial Black', Arial, sans-serif" font-size="105" font-weight="900" letter-spacing="-6">Edson</text>
+    <text x="64" y="246" fill="#fff8ed" font-family="'Arial Black', Arial, sans-serif" font-size="105" font-weight="900" letter-spacing="-6">Henrique<tspan fill="#ff9a83">.</tspan></text>
+    <text x="71" y="287" fill="#bcaedf" font-family="ui-monospace, 'Courier New', monospace" font-size="17" letter-spacing="1">Montréal</text>
+    <path d="M715 77 1111 306M765 48 1161 277M815 19 1211 248M709 277 1099 52M759 306 1149 81M809 335 1199 110" stroke="#6b518d" stroke-width="1" opacity=".35"/>
+    <path d="M741 134c0-59 187-99 301-46 90 42 106 136 32 178-55 31-174 21-206-13" fill="none" stroke="#bda7f7" stroke-width="2" stroke-dasharray="5 11" opacity=".65" class="route"/>
+    <g stroke="#171326" stroke-width="3" stroke-linejoin="round">
+      <path d="m936 53 84 48-84 49-84-49z" fill="#beabff"/>
+      <path d="m852 101 84 49v68l-84-49z" fill="#8e73d8"/>
+      <path d="m936 150 84-49v68l-84 49z" fill="#7254bb"/>
+      <path d="m936 77 43 24-43 25-43-25z" fill="#28203f" stroke="none"/>
+      <path d="m936 126 43-25v18l-43 25-43-25v-18z" fill="#d8cbff" stroke="none"/>
+      <path d="m796 173 73 42-73 43-73-43z" fill="#ffb49e"/>
+      <path d="m723 215 73 43v47l-73-42z" fill="#e77e69"/>
+      <path d="m796 258 73-43v48l-73 42z" fill="#c65f65"/>
+      <path d="m1065 166 73 42-73 43-73-43z" fill="#bcf4d7"/>
+      <path d="m992 208 73 43v47l-73-42z" fill="#78c5ac"/>
+      <path d="m1065 251 73-43v48l-73 42z" fill="#52a795"/>
+    </g>
+    <path d="m776 214 13 8 26-15" stroke="#542e3a" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="none" stroke="#1d5147" stroke-width="3" stroke-linecap="round"><path d="m1044 204-11 7 11 7m41-26 11 7-11 7m-16-8-10 21"/></g>
+    <g class="spark" fill="#ff9a83"><path d="m1118 38 5 15 15 5-15 5-5 15-5-15-15-5 15-5z"/><circle cx="714" cy="86" r="5"/></g>
+    <path d="m1070 112 4 10 10 4-10 4-4 10-4-10-10-4 10-4z" fill="#c0f2da"/>
+    <path d="M619 275h32m-16-16v32" stroke="#796098" stroke-width="2"/>
+  </g>
 </svg>

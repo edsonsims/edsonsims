@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title description">
+  <title id="title">Enterprise AI Lab</title><desc id="description">Tenant-aware retrieval, with an unsafe baseline. Offline fixtures, access filters and reproducible reports.</desc>
+  <rect width="1200" height="180" rx="18" fill="#def5e9"/>
+  <text x="34" y="35" fill="#4d7c69" font-family="ui-monospace, 'Courier New', monospace" font-size="15" letter-spacing="2">03 / RETRIEVAL</text>
+  <text x="32" y="80" fill="#203f36" font-family="Arial, sans-serif" font-size="37" font-weight="700" letter-spacing="-1">Enterprise AI Lab</text>
+  <text x="34" y="116" fill="#2d5346" font-family="Arial, sans-serif" font-size="23">Tenant-aware retrieval, with an unsafe baseline.</text>
+  <text x="34" y="151" fill="#4d7c69" font-family="ui-monospace, 'Courier New', monospace" font-size="17">Offline fixtures · access filters · reproducible reports</text>
+  <g stroke="#4c7967" stroke-width="2.5" stroke-linejoin="round">
+    <rect x="911" y="40" width="64" height="86" rx="8" transform="rotate(-12 943 83)" fill="#c4b1ef"/>
+    <rect x="952" y="32" width="64" height="86" rx="8" transform="rotate(7 984 75)" fill="#fff9ef"/>
+    <path d="m974 54 22 3m-24 10 22 3m-24 10 17 2" fill="none" stroke-linecap="round"/>
+    <path d="m1017 105 31-18 31 18v35l-31 18-31-18z" fill="#9bd3bc"/>
+    <path d="m1037 122 8 8 15-16" stroke="#2d5d4d" stroke-width="4" fill="none" stroke-linecap="round"/>
+  </g>
+  <path d="M891 139h15m-7-7v15m183-97h12m-6-6v12" stroke="#6b947f" stroke-width="2"/>
+  <path d="m1147 136 10 10-10 10m-20-10h29" fill="none" stroke="#4c7967" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
