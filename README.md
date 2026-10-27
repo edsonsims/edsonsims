@@ -41,6 +41,7 @@ local decision models.
 - **[pyfakefs](https://github.com/pytest-dev/pyfakefs/pull/1356)** — Measure setup benchmarks with CPU time after warmup, retaining coarse regression limits and testing the measurement itself.
 - **[Meriyah](https://github.com/meriyah/meriyah/pull/672)** — Correct parsing of default-exported arrows using `async` as a parameter, with scope and syntax regression tests.
 - **[Pydash](https://github.com/dgilland/pydash/pull/381)** — Process many input arrays in XOR helpers without hitting Python's recursion limit, preserving iteratee and comparator behavior.
+- **[amqplib](https://github.com/amqp-node/amqplib/pull/864)** — Return the server acknowledgement from promise-based consumer cancellation, preserving cancellation ordering and error behavior.
 
 ### 🎙️ The story behind UHIRED
 
