@@ -40,6 +40,7 @@ local decision models.
 - **[filelock](https://github.com/tox-dev/filelock/pull/859)** — Handle NetBSD symlink-refusal errors as lost ownership in soft reader/writer locks.
 - **[pyfakefs](https://github.com/pytest-dev/pyfakefs/pull/1356)** — Measure setup benchmarks with CPU time after warmup, retaining coarse regression limits and testing the measurement itself.
 - **[Meriyah](https://github.com/meriyah/meriyah/pull/672)** — Correct parsing of default-exported arrows using `async` as a parameter, with scope and syntax regression tests.
+- **[Pydash](https://github.com/dgilland/pydash/pull/381)** — Process many input arrays in XOR helpers without hitting Python's recursion limit, preserving iteratee and comparator behavior.
 
 ### 🎙️ The story behind UHIRED
 
