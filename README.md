@@ -44,6 +44,7 @@ local decision models.
 - **[amqplib](https://github.com/amqp-node/amqplib/pull/864)** — Return the server acknowledgement from promise-based consumer cancellation, preserving cancellation ordering and error behavior.
 
 - **[DataChain](https://github.com/datachain-ai/datachain/pull/2091)** — Bound default TAR-member read-ahead while preserving explicit buffer sizes and cached-archive reads.
+- **[stream-chain](https://github.com/uhop/stream-chain/pull/73)** — Preserve split surrogate pairs in asynchronous buffered file writes, with boundary and lifecycle regressions.
 
 ### 🎙️ The story behind UHIRED
 
