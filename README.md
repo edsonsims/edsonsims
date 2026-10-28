@@ -43,6 +43,8 @@ local decision models.
 - **[Pydash](https://github.com/dgilland/pydash/pull/381)** — Process many input arrays in XOR helpers without hitting Python's recursion limit, preserving iteratee and comparator behavior.
 - **[amqplib](https://github.com/amqp-node/amqplib/pull/864)** — Return the server acknowledgement from promise-based consumer cancellation, preserving cancellation ordering and error behavior.
 
+- **[DataChain](https://github.com/datachain-ai/datachain/pull/2091)** — Bound default TAR-member read-ahead while preserving explicit buffer sizes and cached-archive reads.
+
 ### 🎙️ The story behind UHIRED
 
 I knew my experience. Explaining it in an interview was harder.
