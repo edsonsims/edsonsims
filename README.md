@@ -48,6 +48,7 @@ local decision models.
 - **[i18next](https://github.com/i18next/i18next/pull/2463)** — Preserve reusable and frozen clone options so requested resource stores remain isolated.
 - **[EventSource](https://github.com/EventSource/eventsource/pull/372)** — Snapshot caller-supplied URL objects so later mutations do not change connection or reconnection destinations.
 - **[Python JSONPath](https://github.com/jg-rp/python-jsonpath/pull/139)** — Distinguish booleans from numbers in JSON Patch equality checks, including nested containers.
+- **[Executing](https://github.com/alexmojaki/executing/pull/112)** — Match source qualnames to the enclosing scope for lambdas in class decorators, bases and metaclass keywords.
 
 ### 🎙️ The story behind UHIRED
 
