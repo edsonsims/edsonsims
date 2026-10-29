@@ -47,6 +47,7 @@ local decision models.
 - **[stream-chain](https://github.com/uhop/stream-chain/pull/73)** — Preserve split surrogate pairs in asynchronous buffered file writes, with boundary and lifecycle regressions.
 - **[i18next](https://github.com/i18next/i18next/pull/2463)** — Preserve reusable and frozen clone options so requested resource stores remain isolated.
 - **[EventSource](https://github.com/EventSource/eventsource/pull/372)** — Snapshot caller-supplied URL objects so later mutations do not change connection or reconnection destinations.
+- **[Python JSONPath](https://github.com/jg-rp/python-jsonpath/pull/139)** — Distinguish booleans from numbers in JSON Patch equality checks, including nested containers.
 
 ### 🎙️ The story behind UHIRED
 
