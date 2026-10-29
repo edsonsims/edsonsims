@@ -46,6 +46,7 @@ local decision models.
 - **[DataChain](https://github.com/datachain-ai/datachain/pull/2091)** — Bound default TAR-member read-ahead while preserving explicit buffer sizes and cached-archive reads.
 - **[stream-chain](https://github.com/uhop/stream-chain/pull/73)** — Preserve split surrogate pairs in asynchronous buffered file writes, with boundary and lifecycle regressions.
 - **[i18next](https://github.com/i18next/i18next/pull/2463)** — Preserve reusable and frozen clone options so requested resource stores remain isolated.
+- **[EventSource](https://github.com/EventSource/eventsource/pull/372)** — Snapshot caller-supplied URL objects so later mutations do not change connection or reconnection destinations.
 
 ### 🎙️ The story behind UHIRED
 
