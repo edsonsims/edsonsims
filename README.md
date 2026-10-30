@@ -51,6 +51,7 @@ local decision models.
 - **[Executing](https://github.com/alexmojaki/executing/pull/112)** — Match source qualnames to the enclosing scope for lambdas in class decorators, bases and metaclass keywords.
 - **[Cockatiel](https://github.com/connor4312/cockatiel/pull/134)** — Emit documented success and failure events for admitted bulkhead calls while preserving queue and cancellation behavior.
 - **[SmartOpen](https://github.com/piskvorky/smart_open/pull/992)** — Close HTTP responses after invalid Content-Range headers and treat malformed Content-Length values as unknown.
+- **[Pygls](https://github.com/openlawlibrary/pygls/pull/644)** — Release completed work-done progress registrations without affecting active progress or notification payloads.
 
 ### 🎙️ The story behind UHIRED
 
